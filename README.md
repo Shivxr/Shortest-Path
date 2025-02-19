@@ -7,7 +7,7 @@ A simple cpp code to find shortest path from A to B in a grid using Greedy Appro
 ---
 
 ## **Description**  
-This program demonstrates a greedy algorithm to find the shortest path from the top-left corner `(0, 0)` to a target cell `(4, 4)` in a 7x7 grid using **Manhattan distance**. The grid is filled with sequential numbers for easier visualization of the path. The algorithm moves step-by-step either right or down, ensuring the shortest route is taken at every step.
+This program demonstrates a greedy algorithm to find the shortest path from the top-left corner `(0, 0)` to a target cell `(t1,t2)` in a rxc grid using **Manhattan distance**. The grid is filled with sequential numbers for easier visualization of the path. The algorithm moves step-by-step either right or down, ensuring the shortest route is taken at every step.
 
 ---
 
